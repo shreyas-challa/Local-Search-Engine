@@ -1,0 +1,10 @@
+[project]
+name = "search-and-summarize"
+version = "0.1.0"
+dependencies = [
+    "typer>=0.9.0", # Specify the required version
+]
+
+[project.scripts]
+# Format is: <command_name> = <module_path>:<function_or_app_object>
+lacuna = "main:app" 
