@@ -14,7 +14,8 @@ Usage
 - Run the main script and pass a query: python main.py  search terms.
 
 Future work
-- Add an integrated summarization feature to produce short summaries of matching notes.
-- Improve ranking and add fuzzy matching.
+- Add an integrated summarization feature to produce short summaries of matching notes using SLM.
+- Exand on other search algorithms.
+- Integrate semantic search.
 
 Still in works!
