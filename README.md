@@ -17,5 +17,4 @@ Future work
 - Add an integrated summarization feature to produce short summaries of matching notes.
 - Improve ranking and add fuzzy matching.
 
-Contributing
-- Open an issue or submit a PR. Keep changes small and focused.
+Still in works!
